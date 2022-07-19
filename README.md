@@ -1,6 +1,6 @@
 # 10 Minutes Workout: WordPress+Elementor Website
 
-This project is a website built with WordPress and Elementor that promotes a fictional fitness app named 10 Minutes Workout. The map on the home page is illustrative and it shows New York.
+This project is a website built with WordPress and Elementor that promotes a fictional fitness app named 10 Minutes Workout, the map on the home page is illustrative and it shows New York.
 
 ## Screenshot 1: Home Page
 
